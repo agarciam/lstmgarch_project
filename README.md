@@ -11,4 +11,7 @@ Andres Garcia Medina
 
 ## requirements:
 
--conda install -c conda-forge tensorflow
+$ conda install -c conda-forge tensorflow
+$ conda install -c anaconda scikit-learn
+$ conda install -c conda-forge matplotlib
+$ conda install pandas
