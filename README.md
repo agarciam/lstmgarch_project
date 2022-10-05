@@ -17,4 +17,4 @@ $ conda install -c anaconda scikit-learn
 
 $ conda install -c conda-forge matplotlib
 
-$ conda install pandas
+$ conda install -c conda-forge pandas
