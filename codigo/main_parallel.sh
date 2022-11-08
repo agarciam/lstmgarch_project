@@ -17,7 +17,7 @@ echo  `date`
 for (( j=1; j<${casos_length}+1; j++ ));
 do
     case=${casos[$j-1]}
-    for ID in ${ventana[*]}; do echo $ID; done  | xargs -I{} --max-procs 16 bash -c "
+    for ID in ${ventana[*]}; do echo $ID; done  | xargs -I{} --max-procs 8 bash -c "
 	echo $case {};
 	python3 main.py $case {}"
 	echo "Exit code for xargs = $?"
