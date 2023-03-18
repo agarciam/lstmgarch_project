@@ -1,6 +1,6 @@
 # LSTM-GARCH hybrid model for the prediction of volatility in cryptocurrency portfolios
 
-see: http://dx.doi.org/10.2139/ssrn.4132498
+see: https://link.springer.com/article/10.1007/s10614-023-10373-8
 
 ## Authors:
 
