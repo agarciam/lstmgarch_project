@@ -3,7 +3,7 @@
 """
 Created on Sat Oct  1 19:25:35 2022
 
-@author: andres
+@author: andres.garcia.medina@uabc.edu.mx
 """
 
 
