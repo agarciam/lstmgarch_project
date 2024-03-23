@@ -1,4 +1,5 @@
 #!/bin/bash
+#@author: andres.garcia.medina@uabc.edu.mx
 
 directory=$(pwd)
 
